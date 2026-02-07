@@ -11,4 +11,8 @@ problem 5: compare string
 
 problem 6. pattern matching
 
+problem 7.bubble sort
+
+problem 8. optimized bubble sort
+
 
