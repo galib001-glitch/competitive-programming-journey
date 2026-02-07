@@ -15,4 +15,5 @@ problem 7.bubble sort
 
 problem 8. optimized bubble sort
 
+problem 9. insertion sort
 
