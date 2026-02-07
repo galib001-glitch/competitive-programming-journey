@@ -9,3 +9,6 @@ problem4 :string concatenation manually.
 
 problem 5: compare string
 
+problem 6. pattern matching
+
+
